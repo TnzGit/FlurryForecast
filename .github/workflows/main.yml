@@ -41,4 +41,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Start release build
-        run: flutter build apk --obfuscate --split-debug-info=/FlurryForecast/debuginfo
+        run: flutter build apk
