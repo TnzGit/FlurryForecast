@@ -129,6 +129,10 @@ class _MyHomePageState extends State<MyHomePage> {
                     const Text(
                       "Made by T🍉NY\nData Source: Open-Meteo\nNon-commercial Use Only",
                       style: TextStyle(fontSize: 12),
+                    ),
+                    const Text(
+                      "Comments Welcomed @ TnzGit/FlurryForecast on Github",
+                      style: TextStyle(fontSize: 12),
                     )
                     // MyDataTable(data: snapshot.data!),
                   ],
