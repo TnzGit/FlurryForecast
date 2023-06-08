@@ -1,16 +1,18 @@
-# snowapp
+# FlurryForecast
 
-A new Flutter project.
+This is a personal project with a few goals:
+1. Easy to use app to check snow and related weather forecasts for the Australian resorts, I might add more resorts to it in the future
+2. Learn Flutter
+3. Try a public Github project
 
-## Getting Started
+# Tasks
+- [ ] 4 Major Australian Resorts
+- [ ] New Snow (daily)
+- [ ] New Rain (daily)
+- [ ] Snow Depth (hourly)
+- [ ] Wind and Gust (hourly)
+- [ ] 
+- [ ] Wind Direction
+- [ ] More Resorts
+- [ ] Temperature
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
